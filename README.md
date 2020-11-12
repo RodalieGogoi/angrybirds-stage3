@@ -1,1 +1,3 @@
-# angrybirds-stage3
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
+modifying the readMe file 
